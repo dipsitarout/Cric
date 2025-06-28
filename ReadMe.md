@@ -23,7 +23,7 @@
 CricWeather Chat App is a comprehensive cricket enthusiast's companion that seamlessly combines live cricket updates, real-time weather information, and social chat features. Built with modern Android technologies, this app delivers an immersive experience for cricket fans who want to stay connected with the game, weather conditions, and fellow enthusiasts.
 
 <div align="center">
-  <img src="https://img.icons8.com/fluency/96/cricket.png" alt="Cricket" width="60"/>
+  
   <img src="https://img.icons8.com/fluency/96/partly-cloudy-day.png" alt="Weather" width="60"/>
   <img src="https://img.icons8.com/fluency/96/chat.png" alt="Chat" width="60"/>
   <img src="https://img.icons8.com/fluency/96/google-maps-new.png" alt="Maps" width="60"/>
@@ -41,7 +41,7 @@ CricWeather Chat App is a comprehensive cricket enthusiast's companion that seam
 - **Multi-Platform Login**: Email and social media authentication support
 
 ### 🏏 **Cricket Dashboard**
-<img src="https://img.icons8.com/fluency/48/cricket.png" alt="Cricket Dashboard" align="left" width="40" style="margin-right: 10px;"/>
+
 
 - **Live Scores**: Real-time cricket match updates and scores
 - **Match Analytics**: Detailed match statistics and player performance
@@ -57,7 +57,6 @@ CricWeather Chat App is a comprehensive cricket enthusiast's companion that seam
 - **Cricket Match Conditions**: Weather impact analysis for cricket matches
 
 ### 💬 **Chat Application**
-<img src="https://img.icons8.com/fluency/48/chat-room.png" alt="Chat" align="left" width="40" style="margin-right: 10px;"/>
 
 - **Real-Time Messaging**: Instant chat with Firebase Firestore
 - **Group Discussions**: Cricket fan communities and team discussions
@@ -65,7 +64,6 @@ CricWeather Chat App is a comprehensive cricket enthusiast's companion that seam
 - **Push Notifications**: Stay updated with message notifications
 
 ### 👤 **Profile Management**
-<img src="https://img.icons8.com/fluency/48/user-account.png" alt="Profile" align="left" width="40" style="margin-right: 10px;"/>
 
 - **User Profiles**: Personalized user profiles with preferences
 - **Cricket Preferences**: Favorite teams, players, and match settings
@@ -282,7 +280,7 @@ The app follows **MVVM (Model-View-ViewModel)** architecture pattern:
 ## 🔧 Configuration
 
 ### **🏏 Cricket API Integration**
-- <img src="https://img.icons8.com/fluency/20/cricket.png" alt="Cricket"/> **Live Scores API**: Real-time cricket match data
+-**Live Scores API**: Real-time cricket match data
 - <img src="https://img.icons8.com/fluency/20/trophy.png" alt="Tournament"/> **Tournament API**: League and match information
 
 ### **🌤️ Weather API Setup**
@@ -291,12 +289,12 @@ The app follows **MVVM (Model-View-ViewModel)** architecture pattern:
 
 ### **💬 Chat System**
 - <img src="https://img.icons8.com/color/20/firebase.png" alt="Firebase"/> **Firebase Firestore**: Real-time messaging database
-- <img src="https://img.icons8.com/fluency/20/notification.png" alt="Notification"/> **Firebase Messaging**: Push notifications for new messages
+- **Firebase Messaging**: Push notifications for new messages
 - <img src="https://img.icons8.com/fluency/20/cloud-storage.png" alt="Storage"/> **Firebase Storage**: Media file storage for chat
 
 ### **🗺️ Maps Integration**
 - <img src="https://img.icons8.com/color/20/google-maps.png" alt="Maps"/> **Google Maps**: Location-based weather display
-- <img src="https://img.icons8.com/fluency/20/gps.png" alt="GPS"/> **Location Services**: Current location detection
+-  **Location Services**: Current location detection
 
 ---
 
@@ -428,10 +426,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Connecting cricket fans through weather intelligence and social interaction*
 
-<img src="https://img.icons8.com/fluency/48/cricket.png" alt="Cricket"/>
+
 <img src="https://img.icons8.com/fluency/48/partly-cloudy-day.png" alt="Weather"/>
 <img src="https://img.icons8.com/fluency/48/chat.png" alt="Chat"/>
-<img src="https://img.icons8.com/fluency/48/mobile-app.png" alt="Mobile App"/>
+
 
 ---
 
